@@ -15,5 +15,10 @@ public class HelloWorldController2 {
 	public String helloWorld3() {
 		return "Hello World - V2 - Red3 ";
 	}
+
+	@GetMapping(path = "/hello-world4")
+	public String helloWorld4() {
+		return "Hello World - V2 - Red4 ";
+	}
 	
 }
