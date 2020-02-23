@@ -10,4 +10,10 @@ public class HelloWorldController2 {
 	public String helloWorld() {
 		return "Hello World - V2 - Red2 ";
 	}
+
+	@GetMapping(path = "/hello-world3")
+	public String helloWorld3() {
+		return "Hello World - V2 - Red3 ";
+	}
+	
 }
