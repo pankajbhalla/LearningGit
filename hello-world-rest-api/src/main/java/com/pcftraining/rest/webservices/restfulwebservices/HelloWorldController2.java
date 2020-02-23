@@ -11,9 +11,18 @@ public class HelloWorldController2 {
 		return "Hello World - V2 - Red2 ";
 	}
 
+	@GetMapping(path = "/hello-world3")
+	public String helloWorld3() {
+		return "Hello World - V2 - Red3 ";
+	}
+
+	@GetMapping(path = "/hello-world4")
+	public String helloWorld4() {
+		return "Hello World - V2 - Red4 ";
+	}
+	
 	@GetMapping(path = "/hello-world5")
 	public String helloWorld5() {
 		return "Hello World - V2 - Red5 ";
 	}
-
 }
