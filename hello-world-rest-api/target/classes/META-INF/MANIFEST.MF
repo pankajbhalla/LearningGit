@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: hello-world-rest-api
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: fahjkjx
+Built-By: bhall
 Implementation-Vendor-Id: com.pcftraining.rest.webservices
-Build-Jdk: 1.8.0_191
+Build-Jdk: 1.8.0_101
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/01-hello-world-rest-api
 Created-By: Maven Integration for Eclipse
